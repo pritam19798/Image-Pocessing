@@ -1,0 +1,9 @@
+(1)median filter
+gaussian filter
+bottom hat transformation
+unsharp masking
+extract blood vessel
+
+
+(2)
+
